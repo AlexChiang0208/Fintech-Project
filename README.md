@@ -47,10 +47,10 @@
 
 ## 書面報告
 
-### [專案簡報]()
+### [專案簡報](Report/FinalReport.pdf)
 
 
-### [專案結果彙整]()
+### [專案結果彙整](Report/FinalResult.xlsx)
 
 
 # 專案概要
